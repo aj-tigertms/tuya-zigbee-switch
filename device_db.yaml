@@ -4061,6 +4061,33 @@ SWITCH_BSEED_TOUCH_TS0001:
   info: Supported
   threads: https://github.com/romasku/tuya-zigbee-switch/pull/186
   store: https://livolotouch.ru/vyklyuchateli/odnoklavishnyy-umnyy-sensornyy-vyklyuchatel-livolo-zigbee-1-post-chernyy
+SWITCH_BSEED_TOUCH_TS0001_2:
+  human_name: BSEED 1-gang touch switch 🅰
+  category: switch
+  power: mains
+  neutral: required
+  output: null
+  device_type: router
+  stock_model_name: TS0001
+  stock_manufacturer_name: _TZ3000_wijoqjk1
+  stock_converter_manufacturer: Tuya
+  stock_converter_model: TS0001
+  override_z2m_device: null
+  tuya_module: ZTU
+  mcu_family: Telink
+  mcu: TLSR8258
+  config_str: wijoqjk1;TS0001-BS12;LB4i;SC2u;RC3;ID2i;M;
+  alt_config_str: null
+  old_manufacturer_names: null
+  old_zb_models: null
+  stock_manufacturer_id: 4417
+  stock_image_type: 54179
+  firmware_image_type: 45575
+  build: yes
+  status: mostly_supported
+  info: Needs pinout confirmation
+  threads: https://github.com/romasku/tuya-zigbee-switch/pull/188
+  store: null
 SWITCH_BSEED_TOUCH_TS0002:
   human_name: BSEED 2-gang touch switch
   category: switch
@@ -4088,6 +4115,33 @@ SWITCH_BSEED_TOUCH_TS0002:
   info: Missing state indicators (specifc dimming implementation)
   threads: https://github.com/romasku/tuya-zigbee-switch/pull/188
   store: https://aliexpress.ru/item/4000086550778.html
+SWITCH_BSEED_TOUCH_TS0002_2:
+  human_name: BSEED 2-gang touch switch
+  category: switch
+  power: mains
+  neutral: required
+  output: null
+  device_type: router
+  stock_model_name: TS0002
+  stock_manufacturer_name: _TZ3000_w5xztuy7
+  stock_converter_manufacturer: Tuya
+  stock_converter_model: TS0002
+  override_z2m_device: null
+  tuya_module: ZTU
+  mcu_family: Telink
+  mcu: TLSR8258
+  config_str: w5xztuy7;TS0002-BS22;LC4;SB5u;RC2;IB4i;SD2u;RC3;M;
+  alt_config_str: null
+  old_manufacturer_names: null
+  old_zb_models: null
+  stock_manufacturer_id: 4417
+  stock_image_type: 54179
+  firmware_image_type: 45578
+  build: yes
+  status: in_progress
+  info: Missing state indicators (specifc dimming implementation)?
+  threads: https://github.com/romasku/tuya-zigbee-switch/pull/188
+  store: null
 SWITCH_BSEED_TOUCH_TS0011:
   human_name: BSEED 1-gang touch switch
   category: switch
