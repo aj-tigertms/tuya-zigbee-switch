@@ -4640,5 +4640,33 @@
       "_TZ3000_rbl8c85w",
       "rbl8c85w"
     ]
+  },
+  {
+    "fileName": "tlc_switch-1.1.2-db46dc4a.zigbee",
+    "fileVersion": 285356032,
+    "fileSize": 180978,
+    "url": "https://github.com/aj-tigertms/tuya-zigbee-switch/raw/refs/heads/main/bin/router/SOCKET_MOES_ZK_EU16M/tlc_switch-1.1.2-db46dc4a.zigbee",
+    "imageType": 45681,
+    "manufacturerCode": 4417,
+    "sha512": "77c37b31eea74dc9eb3ea52995277fd926cac71272bd8218eefac62d6735cae13672bbc8cbd49c66cf65d2b660770f522fe1d09fee1ad2ffe25a09d0b545b20d",
+    "otaHeaderString": "Telink OTA Image\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+    "manufacturerName": [
+      "_TZ3000_ss98ec5d",
+      "ss98ec5d"
+    ]
+  },
+  {
+    "fileName": "tlc_switch-1.1.2-db46dc4a-from_tuya.zigbee",
+    "fileVersion": 4294967295,
+    "fileSize": 180978,
+    "url": "https://github.com/aj-tigertms/tuya-zigbee-switch/raw/refs/heads/main/bin/router/SOCKET_MOES_ZK_EU16M/tlc_switch-1.1.2-db46dc4a-from_tuya.zigbee",
+    "imageType": 54179,
+    "manufacturerCode": 4417,
+    "sha512": "36a401d292ec9b30b66ddfa432109134d19a7597c1d0855f1ae9e562cc7aa3c261513bcfbd034a97a21aa80be9ab593ea4fe92931d28c2b908847ae826fefa32",
+    "otaHeaderString": "Telink OTA Image\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+    "manufacturerName": [
+      "_TZ3000_ss98ec5d",
+      "ss98ec5d"
+    ]
   }
 ]
