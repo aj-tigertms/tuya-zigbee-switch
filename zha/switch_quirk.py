@@ -436,7 +436,7 @@ CONFIGS = [
     "TELINK;TLSR82xx-2G;SC0u;IB4;SD7u;IB4;BTB5;M;",
     "ja5osu5g;TS004F-Loginovo;BB6u;SC2u;IC4i;BTB5;M;",
     "xabckq1v;TS004F-TUYA;SA0d;IC1i;SA3d;IC2i;SA4d;IC0i;SB0d;ID0i;BTA0;M;",
-    "ss98ec5d;TS011F-MOES;SC4u;RB4;ID2i;M;",
+    "ss98ec5d;TS011F-MOES;SB7d;RD2;IB1;M;",
     "w1tcofu8;TS0001-AVT;LB5;SD7u;RC3;M;",
     "ogpla3lh;TS0002-AVT;LB5;SD3u;RC2;SD4u;RD2;M;",
     "avky2mvc;TS0003-AVT;LB5;SD3u;RC2;SD7u;RC3;SD4u;RD2;M;",
