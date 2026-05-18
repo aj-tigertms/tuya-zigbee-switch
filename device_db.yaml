@@ -3652,7 +3652,7 @@ SOCKET_MOES_ZK_EU16M:
   mcu_family: Telink
   mcu: TLSR8258
 
-  config_str: ss98ec5d;TS011F-MOES;SC4u;RB4;ID2i;M;
+  config_str: ss98ec5d;TS011F-MOES;SB7d;RD2;IB1;M;
   alt_config_str: null
   old_manufacturer_names: null
   old_zb_models: null
