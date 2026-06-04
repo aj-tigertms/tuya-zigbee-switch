@@ -25572,8 +25572,10 @@
       ],
       "options": {
         "endpointName": {
-          "1": "switch",
-          "2": "relay"
+          "1": "switch_left",
+          "2": "switch_right",
+          "3": "relay_left",
+          "4": "relay_right"
         }
       }
     },
@@ -25646,7 +25648,8 @@
         }
       },
       "endpointId": [
-        2
+        3,
+        4
       ]
     },
     {
@@ -25757,7 +25760,8 @@
         "relayIndex": {
           "type": "select",
           "enum": {
-            "1": "relay_1"
+            "1": "relay_1",
+            "2": "relay_2"
           }
         },
         "longPressDuration": {
@@ -25789,7 +25793,8 @@
         }
       },
       "endpointId": [
-        1
+        1,
+        2
       ]
     },
     {
@@ -25835,7 +25840,8 @@
         }
       },
       "endpointId": [
-        2
+        3,
+        4
       ]
     }
   ],

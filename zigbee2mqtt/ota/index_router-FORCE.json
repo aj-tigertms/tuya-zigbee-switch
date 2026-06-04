@@ -2530,13 +2530,13 @@
     ]
   },
   {
-    "fileName": "tlc_switch-1.1.2-72167593-forced.zigbee",
+    "fileName": "tlc_switch-1.1.2-5d0e2efc-forced.zigbee",
     "fileVersion": 4294967295,
     "fileSize": 180994,
-    "url": "https://github.com/aj-tigertms/tuya-zigbee-switch/raw/9682bbd875cd3d01a0e61a81c1f115f7ba4e0318/bin/router/SOCKET_MAKEGOOD_MG_GPO01/tlc_switch-1.1.2-72167593-forced.zigbee",
+    "url": "https://github.com/aj-tigertms/tuya-zigbee-switch/raw/refs/heads/add-socket-makegood-mg-gpo01/bin/router/SOCKET_MAKEGOOD_MG_GPO01/tlc_switch-1.1.2-5d0e2efc-forced.zigbee",
     "imageType": 47008,
     "manufacturerCode": 4417,
-    "sha512": "72766f606653913ede9cff1d79aa0272a239f0a71e5f3cd387c86783a20d2494475b8a9e41ae4a18a7d4e0d53d83ffac7482e2e012f45e6b6d77758b8265e4af",
+    "sha512": "fe9b55d256c005d0c580da130f462af1102ff35861f1663e810bd7d0ba42bfa1488cc36431f546650fa7d3527ad98352a2f7e00737adbf9c8f3c3dbf56d6d163",
     "otaHeaderString": "Telink OTA Image\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
     "manufacturerName": [
       "_TZ3210_bep7ccew",
