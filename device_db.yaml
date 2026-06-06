@@ -3663,7 +3663,13 @@ SOCKET_MAKEGOOD_MG_GPO01:
 
   build: yes
   status: in_progress
-  info: Initial port. Pinout confirmed via hardware testing. 2-gang independent relay control.
+  info: >-
+    Pinout confirmed via hardware testing. 2-gang independent relay control.
+    UART flash required — OTA (-from_tuya or -forced) leaves NV state that
+    breaks genOnOff reporting (state changes not reported to Z2M, toggle
+    desyncs). Full erase + UART flash resolves. Confirmed across 6 units.
+    Flash params: --tact 10 -b 1500000. SWS pad to both TX+RX. Solid GND
+    joint critical — intermittent GND causes mid-write failures.
   threads: null
   store: null
 SOCKET_MOES_ZK_EU16M:
